@@ -178,6 +178,9 @@ div > img{
   .gallery{
     display: none;
   }
+  #gallery{
+    display: none;
+  }
 }
 
 
